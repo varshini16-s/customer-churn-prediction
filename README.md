@@ -101,6 +101,19 @@ Raw Data  →  Data Cleaning  →  EDA  →  Feature Engineering  →  Modelling
 | Payment Method Distribution | Electronic check = highest churn payment type |
 | Total Charges vs Churn | Inverse relationship — longer-paying customers churn less |
 
+
+### Power BI Dashboard
+![Dashboard](visuals/dashboard_overview.png)
+
+### Churn by Contract Type
+![Contract](visuals/churn_by_contract.png)
+
+### Churn by Tenure Group
+![Tenure](visuals/churn_by_tenure.png)
+
+### Churn by Internet Service & Security
+![Security](visuals/churn_by_security.png)
+
 ---
 
 ## ⚙️ How to Run
