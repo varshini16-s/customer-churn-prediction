@@ -148,7 +148,7 @@ Based on the analysis, three high-impact retention strategies emerge:
 
 **Varshini S**  
 M.Sc. Integrated Computational Statistics & Data Analytics, VIT Vellore  
-📧 varshini0316@gmail.com | [LinkedIn](www.linkedin.com/in/varshini-s-5120b1275)
+📧 varshini0316@gmail.com | [LinkedIn](https://linkedin.com/in/varshini-s-5120b1275)
 
 ---
 
